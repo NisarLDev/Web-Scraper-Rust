@@ -18,3 +18,5 @@
 7 - https://iproyal.com/blog/web-scraping-with-rust-the-ultimate-2022-guide/
 
 8 - https://scrapingrobot.com/blog/rust-web-scraping/
+
+9 - https://rayobyte.com/blog/rust-web-scraping/
