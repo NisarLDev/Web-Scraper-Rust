@@ -22,3 +22,7 @@
 9 - https://rayobyte.com/blog/rust-web-scraping/
 
 10 - https://dev.to/mariuszmalek/web-scraping-with-rust-1lj5
+
+11 - https://www.fullstacklabs.co/blog/a-rusting-rubyist-v
+
+12 - 
