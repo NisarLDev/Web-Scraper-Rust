@@ -14,3 +14,5 @@
 5 - https://www.scrapingdog.com/blog/web-scraping-with-rust/
 
 6 - https://domenicoluciani.com/2021/04/30/save-5-minutes-web-scraping-with-rust.html
+
+7 - https://iproyal.com/blog/web-scraping-with-rust-the-ultimate-2022-guide/
