@@ -12,3 +12,5 @@
 4 - https://oxylabs.io/blog/rust-web-scraping
 
 5 - https://www.scrapingdog.com/blog/web-scraping-with-rust/
+
+6 - https://domenicoluciani.com/2021/04/30/save-5-minutes-web-scraping-with-rust.html
