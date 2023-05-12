@@ -28,3 +28,5 @@
 12 - https://serpdog.io/blog/web-scraping-google-with-rust/
 
 13 - https://www.youtube.com/watch?v=UXyMWXK0lME
+
+14 - https://www.youtube.com/watch?v=xOhfeuWIoms
