@@ -20,3 +20,5 @@
 8 - https://scrapingrobot.com/blog/rust-web-scraping/
 
 9 - https://rayobyte.com/blog/rust-web-scraping/
+
+10 - https://dev.to/mariuszmalek/web-scraping-with-rust-1lj5
