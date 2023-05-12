@@ -25,4 +25,4 @@
 
 11 - https://www.fullstacklabs.co/blog/a-rusting-rubyist-v
 
-12 - 
+12 - https://serpdog.io/blog/web-scraping-google-with-rust/
