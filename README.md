@@ -42,3 +42,5 @@
 19 - https://www.youtube.com/watch?v=YvsGfGDGQMs
 
 20 - https://www.youtube.com/watch?v=NS9Dh63i_Q4
+
+21 - https://programminghistorian.org/es/lecciones/introduccion-al-web-scraping-usando-r
